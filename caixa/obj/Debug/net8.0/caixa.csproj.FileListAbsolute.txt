@@ -1,0 +1,14 @@
+C:\Users\MIGUELIS\Desktop\Faculdade\Laboratório de Programação\caixa\bin\Debug\net8.0\caixa.exe
+C:\Users\MIGUELIS\Desktop\Faculdade\Laboratório de Programação\caixa\bin\Debug\net8.0\caixa.deps.json
+C:\Users\MIGUELIS\Desktop\Faculdade\Laboratório de Programação\caixa\bin\Debug\net8.0\caixa.runtimeconfig.json
+C:\Users\MIGUELIS\Desktop\Faculdade\Laboratório de Programação\caixa\bin\Debug\net8.0\caixa.dll
+C:\Users\MIGUELIS\Desktop\Faculdade\Laboratório de Programação\caixa\bin\Debug\net8.0\caixa.pdb
+C:\Users\MIGUELIS\Desktop\Faculdade\Laboratório de Programação\caixa\obj\Debug\net8.0\caixa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MIGUELIS\Desktop\Faculdade\Laboratório de Programação\caixa\obj\Debug\net8.0\caixa.AssemblyInfoInputs.cache
+C:\Users\MIGUELIS\Desktop\Faculdade\Laboratório de Programação\caixa\obj\Debug\net8.0\caixa.AssemblyInfo.cs
+C:\Users\MIGUELIS\Desktop\Faculdade\Laboratório de Programação\caixa\obj\Debug\net8.0\caixa.csproj.CoreCompileInputs.cache
+C:\Users\MIGUELIS\Desktop\Faculdade\Laboratório de Programação\caixa\obj\Debug\net8.0\caixa.dll
+C:\Users\MIGUELIS\Desktop\Faculdade\Laboratório de Programação\caixa\obj\Debug\net8.0\refint\caixa.dll
+C:\Users\MIGUELIS\Desktop\Faculdade\Laboratório de Programação\caixa\obj\Debug\net8.0\caixa.pdb
+C:\Users\MIGUELIS\Desktop\Faculdade\Laboratório de Programação\caixa\obj\Debug\net8.0\caixa.genruntimeconfig.cache
+C:\Users\MIGUELIS\Desktop\Faculdade\Laboratório de Programação\caixa\obj\Debug\net8.0\ref\caixa.dll

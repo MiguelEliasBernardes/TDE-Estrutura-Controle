@@ -1,0 +1,14 @@
+C:\Users\MIGUELIS\Desktop\Faculdade\Laboratório de Programação\Calculadora\bin\Debug\net8.0\Calculadora.exe
+C:\Users\MIGUELIS\Desktop\Faculdade\Laboratório de Programação\Calculadora\bin\Debug\net8.0\Calculadora.deps.json
+C:\Users\MIGUELIS\Desktop\Faculdade\Laboratório de Programação\Calculadora\bin\Debug\net8.0\Calculadora.runtimeconfig.json
+C:\Users\MIGUELIS\Desktop\Faculdade\Laboratório de Programação\Calculadora\bin\Debug\net8.0\Calculadora.dll
+C:\Users\MIGUELIS\Desktop\Faculdade\Laboratório de Programação\Calculadora\bin\Debug\net8.0\Calculadora.pdb
+C:\Users\MIGUELIS\Desktop\Faculdade\Laboratório de Programação\Calculadora\obj\Debug\net8.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MIGUELIS\Desktop\Faculdade\Laboratório de Programação\Calculadora\obj\Debug\net8.0\Calculadora.AssemblyInfoInputs.cache
+C:\Users\MIGUELIS\Desktop\Faculdade\Laboratório de Programação\Calculadora\obj\Debug\net8.0\Calculadora.AssemblyInfo.cs
+C:\Users\MIGUELIS\Desktop\Faculdade\Laboratório de Programação\Calculadora\obj\Debug\net8.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\MIGUELIS\Desktop\Faculdade\Laboratório de Programação\Calculadora\obj\Debug\net8.0\Calculadora.dll
+C:\Users\MIGUELIS\Desktop\Faculdade\Laboratório de Programação\Calculadora\obj\Debug\net8.0\refint\Calculadora.dll
+C:\Users\MIGUELIS\Desktop\Faculdade\Laboratório de Programação\Calculadora\obj\Debug\net8.0\Calculadora.pdb
+C:\Users\MIGUELIS\Desktop\Faculdade\Laboratório de Programação\Calculadora\obj\Debug\net8.0\Calculadora.genruntimeconfig.cache
+C:\Users\MIGUELIS\Desktop\Faculdade\Laboratório de Programação\Calculadora\obj\Debug\net8.0\ref\Calculadora.dll
